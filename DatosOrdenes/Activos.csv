@@ -1,0 +1,10 @@
+id,ticker,nombre,tipoActivo,precioUnitario
+1,AAPL,Apple,1,177.97
+2,GOOGL,Alphabet Inc,1,138.21
+3,MSFT,Microsoft,1,329.04
+4,KO,Coca Cola,1,58.3
+5,WMT,Walmart,1,163.42
+6,AL30,BONOS ARGENTINA USD 2030 L.A,2,307.4
+7,GD30,Bonos Globales Argentina USD Step Up 2030,2,336.1
+8,Delta.Pesos,Delta Pesos Clase A,3,0.0181
+9,Fima.Premium,Fima Premium Clase A,3,0.0317
